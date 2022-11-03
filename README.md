@@ -1,4 +1,4 @@
-<h1 align="center">Sopow</h1>
+<h1 align="center">Idris1401</h1>
 
 <p align="center">
  <a href="https://discord.com/users/469789887298535424" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
