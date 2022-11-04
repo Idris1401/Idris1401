@@ -21,5 +21,3 @@
     </td>
   </tr>
 </p>
-
-Made by [Sopow](https://github.com/Sopow)
