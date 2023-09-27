@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://discord.com/users/469789887298535424" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/Idris1401" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.twitter.com/IdrisG2006" target"blank_"><img src="https://img.shields.io/badge/Twitter-191717.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
+ <a href="https://www.x.com/Idris1401_" target"blank_"><img src="https://img.shields.io/badge/Twitter-191717.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
 
 <p align="center">
   <a href="https://discord.com/users/469789887298535424">
